@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/workspace/descriptor_matching/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/descriptor_matching.dir/src/descriptor_matching.cpp.o -c /home/workspace/descriptor_matching/src/descriptor_matching.cpp",
+  "file": "/home/workspace/descriptor_matching/src/descriptor_matching.cpp"
+},
+{
+  "directory": "/home/workspace/descriptor_matching/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/descriptor_matching.dir/src/structIO.cpp.o -c /home/workspace/descriptor_matching/src/structIO.cpp",
+  "file": "/home/workspace/descriptor_matching/src/structIO.cpp"
+}
+]
